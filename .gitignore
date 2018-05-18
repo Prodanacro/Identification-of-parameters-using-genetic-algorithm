@@ -1,5 +1,6 @@
 # Eclipse settings #
 .settings/
+bin/
 
 # Class Files #
 *.class
