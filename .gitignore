@@ -1,0 +1,10 @@
+# Eclipse settings #
+.settings/
+
+# Class Files #
+*.class
+
+# Package Files #
+#*.jar
+*.war
+*.ear
